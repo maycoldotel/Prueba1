@@ -42,7 +42,9 @@
                     <td>6to Info</td>
                 </tr>
             </table>
-            
+            <?php 
+             echo "Hola Mundo"
+            ?>
         </section>
     </main>
 </body>
